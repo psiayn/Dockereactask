@@ -1,0 +1,11 @@
+#virtualenvs
+flsk/
+
+#created folders
+images/
+instance/
+#npm generated packages
+node_modules/
+
+#generated files
+package-lock.json
